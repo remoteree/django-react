@@ -1,0 +1,1 @@
+This repository can be closed to start a new project that uses React/Django
